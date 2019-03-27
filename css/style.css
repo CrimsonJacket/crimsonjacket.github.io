@@ -151,8 +151,8 @@ a:active {
 }
 
 .btn-green {
-  border-color: #2196f3;
-  color: #2196f3;
+  border-color: #dc3545;
+  color: #dc3545;
 }
 
 .btn-green:hover,
@@ -203,7 +203,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #b21e1e !important;
+  color: #dc3545 !important;
 }
 
 /*==================================================
